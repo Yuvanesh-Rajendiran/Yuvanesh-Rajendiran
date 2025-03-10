@@ -18,6 +18,6 @@
 - Enhancing my **DSA Skills**  
 
 📫 **Let's Connect:**  
-[🔗 LinkedIn](https://www.linkedin.com/in/yuvanesh-rajendian/) | [📧 Email](mailto:yuvaneshr2002@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/yuvanesh-rajendiran){:target="_blank"} | [📧 Email](mailto:yuvaneshr2002@gmail.com){:target="_blank"}  
 
 💡 **"Turning ideas into reality and designs into functionality."**  
