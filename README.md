@@ -1,4 +1,6 @@
-👋 Hi, I'm **Yuvanesh Rajendiran**, an **Aspiring Full-Stack Developer** passionate about building scalable and efficient web applications.  
+👋 Hi, I'm **Yuvanesh Rajendiran**
+
+🔭  Check out my **[Portfolio](https://yuvaneshr-personal-portfolio.netlify.app/)**!
 
 💻 **Tech Stack:**  
 - **Frontend:** HTML, CSS, JavaScript, React.js  
